@@ -173,3 +173,25 @@
   color:#333333;
   text-align:center;
 }
+#u6 {
+  border-width:0px;
+  position:absolute;
+  left:138px;
+  top:1260px;
+  width:677px;
+  height:89px;
+}
+#u6_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:677px;
+  height:89px;
+  font-family:'黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:30px;
+  text-decoration:none;
+  color:#333333;
+  text-align:center;
+}
